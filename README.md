@@ -22,7 +22,7 @@ Egoras is a smart contract-based re-commerce/resale marketplace that allows sell
 
 # Timeline of Events
 
-&#8270; Jan 20th, 2020: <a href=https://twitter.com/egorasmarket/status/1213965387026640897">Launch of Egoras Market</a>
+&#8270; Jan 20th, 2020: <a href="https://twitter.com/egorasmarket/status/1213965387026640897">Launch of Egoras Market</a>
   
 &#8270; Jan 17, 2020: <a href="https://twitter.com/CoinMarketCap/status/1217979656042958849">Egoras Dollar(EUSD) Listing On CoinMarketcap</a>
  
