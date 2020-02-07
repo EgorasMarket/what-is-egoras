@@ -22,5 +22,7 @@ Egoras is a smart contract-based re-commerce/resale marketplace that allows sell
 
 # Timeline of Events
 
+&#8270; Dec 24, 2019: <a href="https://twitter.com/etherflyercom/status/1209346522741006337">Egoras(EGR) Listing On EtherFlyer</a>
+
 &#8270; Dec 3, 2019: <a href="https://twitter.com/egorasmarket/status/1201669028105850881">Launch of Egoras Bounty</a>
 
