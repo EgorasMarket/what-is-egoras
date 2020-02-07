@@ -9,6 +9,17 @@ Online Classifieds (like Olx, Quikr, eBay, etc) don’t guarantee the sale of th
 # Official Property
 &#8270; <a href="https://www.egoras.com">Website</a>
 
-&#8226; <a href="https://github.com/EgorasMarket/">Github</a>
+&#8270;; <a href="https://github.com/EgorasMarket/">Github</a>
 
-# Overview of Egoras Marketplace
+# Social Media Handles
+&#8270; <a href="https://facebook.com/egorasmarket">Facebook</a>
+
+&#8270; <a href="https://twitter.com/egorasmarket">Twitter</a>
+
+&#8270; <a href="https://reddit.com/r/egoras">Reddit</a>
+
+&#8270; <a href="https://instagram.com/egorasofficial">Instagram</a>
+
+&#8270; <a href="https://www.linkedin.com/company/egorasmarket/">LinkedIn</a>
+
+&#8270; <a href="https://t.me/egorasmarket">Telegram</a>
