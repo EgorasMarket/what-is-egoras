@@ -7,4 +7,4 @@ Egoras is a smart contract-based re-commerce/resale marketplace that allows sell
 Online Classifieds (like Olx, Quikr, eBay, etc) don’t guarantee the sale of the products while Egoras Re-commerce has a network of buyers and guarantee the sale of the products around the predetermined price.
 
 # Official Property
-<a href="https://www.egoras.com">Website</a>
+&period; <a href="https://www.egoras.com">Website</a>
