@@ -1,6 +1,7 @@
 # What Is Egoras
 
-Egoras is a smart contract-based re-commerce/resale marketplace that allows sellers and buyers of used items to exchange value quickly without any third party that can look over or manipulate transactions. Egoras combines concepts from re-commerce with lessons learned from building cryptocurrencies. An important key to inspiring participation in any marketplace, currency or free-market economy is a fair accounting system that consistently reflects each person’s contribution. Egoras attempts to accurately and transparently reward an unbounded number of individuals who creates value in its marketplace.
+It is estimated that over two billion people around the globe are unbanked and without any access to financial services to meet their daily needs. Egoras protocol (“the protocol” or “the project”) attempts to be part of the solution to this problem by expanding financial access and inclusion to unserved or underserved communities. The protocol achieves its mission by onchain Governance and a Self-Funding Treasury system. The protocol serves as a source of capital for the unserved or underserved communities. In addition, the project seeks to improve the quality of financial services as well as lower the cost of the services in these communities around the globe. This whitepaper therefore explores how Egoras protocol can solve real life problems such as helping people start businesses, supporting small and medium sized enterprises access funds for expansion; and enabling families attend to the needs while maintaining good collateralization onchain.
+
 
 # Official Property
 &#8270; <a href="https://www.egoras.com">Website</a>
